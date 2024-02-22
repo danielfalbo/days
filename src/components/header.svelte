@@ -1,5 +1,6 @@
 <header>
 	<h1><a href="https://github.com/paprikka/days">Days</a></h1>
+	<p>Timeline of my life</p>
 </header>
 
 <style>
