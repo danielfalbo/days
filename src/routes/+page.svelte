@@ -11,9 +11,9 @@
 	import type { RenderableDay, RenderableEvent } from './types';
 
 	// TODO: always start 2 weeks before the first entry
-	const startDate = new Date('1987-06-07');
+	const startDate = new Date('2003-02-27');
 	const today = new Date();
-	const endDate = new Date('2057-07-08');
+	const endDate = new Date('2079-07-08');
 
 	export let data;
 	const renderableDays: RenderableDay[] = calculateDays({
